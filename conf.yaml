@@ -1,0 +1,6 @@
+server:
+  host: "localhost"
+  port: 8080
+rate_limit:
+  ip_request_per_sec: 100
+  otp_sms_interval_sec: 150
